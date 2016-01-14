@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[wewantfans]]></title>
+        <description><![CDATA[wewantfans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 09:42:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Customers and clients buy a service, product or brand with an economic mind set - fans buy for the inherent experience!</p>]]></description>
+            <link>undefined72787b44-0818-4cf4-b3d4-01a289ed31ac/index.html</link>
+            <guid isPermaLink="false">72787b44-0818-4cf4-b3d4-01a289ed31ac</guid>
+            <pubDate>Thu, 14 Jan 2016 09:42:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
