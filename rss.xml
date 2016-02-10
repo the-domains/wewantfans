@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[wewantfans]]></title>
         <description><![CDATA[wewantfans]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wewantfans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 09:42:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 20:13:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wewantfans/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Customers and clients buy a service, product or brand with an economic mind set - fans buy for the inherent experience!</p>]]></description>
-            <link>undefined72787b44-0818-4cf4-b3d4-01a289ed31ac/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f667e77-852d-43f6-9cf0-6d540c6382bb.JPG">]]></description>
+            <link>https://thegrid.ai/wewantfans/72787b44-0818-4cf4-b3d4-01a289ed31ac/index.html</link>
             <guid isPermaLink="false">72787b44-0818-4cf4-b3d4-01a289ed31ac</guid>
-            <pubDate>Thu, 14 Jan 2016 09:42:20 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 20:13:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
