@@ -1,9 +1,7 @@
-favicon: null
 name: wewantfans
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5092749
+typography_spectrum: 0.5261383
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2985235
-  brandStrength: 0.5512994793243706
-  lightness: 0.5303541
   brandColors:
     - '#d3d4cf'
     - '#2e3b6c'
     - '#abaeaa'
     - '#1c1d0b'
     - '#545e60'
+  brandStrength: 0.5512994793243706
+  lightness: 0.5303541
+  saturation: 0.2985235
   rhythmicContrast: 0.4721754
-typography_spectrum: 0.5261383
-layout_spectrum: 0.5092749
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
