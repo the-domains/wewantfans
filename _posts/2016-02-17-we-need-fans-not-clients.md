@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T13:16:04.749Z'
-dateModified: '2016-02-17T13:15:50.436Z'
+datePublished: '2016-02-17T13:16:56.799Z'
+dateModified: '2016-02-17T13:16:32.439Z'
 title: 'We need fans, not clients'
 author: []
+sourcePath: _posts/2016-02-17-we-need-fans-not-clients.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-we-need-fans-not-clients.md
-published: true
 url: we-need-fans-not-clients/index.html
 _type: Article
 
