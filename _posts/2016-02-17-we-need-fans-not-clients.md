@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T13:16:56.799Z'
-dateModified: '2016-02-17T13:16:32.439Z'
+datePublished: '2016-02-17T13:42:37.927Z'
+dateModified: '2016-02-17T13:42:31.659Z'
 title: 'We need fans, not clients'
 author: []
 sourcePath: _posts/2016-02-17-we-need-fans-not-clients.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: we-need-fans-not-clients/index.html
-_type: Article
+_type: WebPage
 
 ---
 We need fans, not clients
